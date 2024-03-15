@@ -1,3 +1,4 @@
+-- Active: 1706150356599@@127.0.0.1@3306@atelier_bd
 CREATE TABLE IF NOT EXISTS singer (     singerName varchar(50),
                                         firstName varchar(50),
                                         lastName varchar(50),
